@@ -57,3 +57,6 @@ Katafuchi, Y. (2021). covid-19_priority_measures_japan. URL: https://github.com/
 * Cabinet Secretariat, Japan. (2021c). Measures to Strengthen Priority Measures such as the Prevention of the Spread of Disease. in Japanese. URL: https://corona.go.jp/emergency/pdf/manbou_kyokasaku_20210423.pdf. (Accessed on April 24, 2021).
 * Cabinet Secretariat, Japan. (2021d). Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/04/23. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210423.pdf. (Accessed on April 24, 2021).
 * Katafuchi, Y. (2020). covid-19_emergency_statement_japan. URL: https://github.com/yuya-katafuchi/covid-19_emergency_statement_japan (Accessed on April 24, 2021).
+
+## Acknowledgement
+Development of this repository is supported in part by JSPS KAKENHI Grant Number 20K22142 and 21K13320.
