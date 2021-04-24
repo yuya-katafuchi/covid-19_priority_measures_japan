@@ -24,6 +24,8 @@ This measure is based on the definition of Chapter 3 of the "Act on Special Meas
 * Requests to businesses to make use of telework and to promote the use of leave in order to reduce the need to attend work
 * Requests to railway companies to reduce the number of trains on holidays on routes to and from the areas under the measures
 
+As the priority measures under this law are issued by the government, which can limit the areas covered by these declarations more flexibly compared to emergency declarations ([Katafuchi, 2020](https://github.com/yuya-katafuchi/covid-19_emergency_statement_japan)), their implementation varies from one region to another, especially at the prefectural level where they have been implemented. This repository consists of data constructed to capture this heterogeneity of priority measures at the prefectural level and to provide data-based analysis, as well as R code to support analysis using the data.
+
 ## Description of files
 * `covid-19_priority_measures_japan.csv`: data file of the priority measures issued by the government of Japan.
 * `make_long_covid-19_priority_measures_japan.R`: An R script that converts the above file into a long format data frame represented by a binary variable that indicates under which priority measures was issued. This also supports multiple declarations of priority measures.
@@ -54,3 +56,4 @@ Katafuchi, Y. (2021). covid-19_priority_measures_japan. URL: https://github.com/
 * Cabinet Secretariat, Japan. (2021b). Emergency Measures and Priority Measures such as the Prevention of the Spread of Disease. in Japanese. URL: https://corona.go.jp/emergency/pdf/kinkyujitaisochi_20210419.pdf. (Accessed on April 24, 2021).
 * Cabinet Secretariat, Japan. (2021c). Measures to Strengthen Priority Measures such as the Prevention of the Spread of Disease. in Japanese. URL: https://corona.go.jp/emergency/pdf/manbou_kyokasaku_20210423.pdf. (Accessed on April 24, 2021).
 * Cabinet Secretariat, Japan. (2021d). Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/04/23. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210423.pdf. (Accessed on April 24, 2021).
+* Katafuchi, Y. (2020). covid-19_emergency_statement_japan. URL: https://github.com/yuya-katafuchi/covid-19_emergency_statement_japan (Accessed on April 24, 2021).
