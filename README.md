@@ -14,7 +14,15 @@
 Date-range data of the priority measures such as the prevention of the spread of disease (まん延防止等重点措置; _Manenboushitoujutensochi_, in Japanese) for the prefectures in Japan. The priority measures in this dataset are those issued by the government of Japan and prefectural governments of Japan.
 
 ## Overview of priority measures such as the prevention of the spread of disease in Japan
-Work in progress
+The priority measures such as the prevention of the spread of disease (まん延防止等重点措置; _Manenboushitoujutensochi_, in Japanese) by the Government of Japan are designed to limit the damage to the population caused by the spread of the pandemic and to prevent the spread of COVID-19 in certain areas with a negative impact on their life and economy.
+
+This measure is based on the definition of Chapter 3 of the "Act on Special Measures for Pandemic Influenza and New Infectious Diseases Preparedness and Response", a law in Japan (e-Gov, Japan, 2020; Cabinet Secretariat, Japan, 2021a). and consists of the following requirements
+
+* Requests to restaurants and other businesses to shorten their opening hours
+* Requests for restaurants to take thorough measures to avoid contact with the spread of the pandemic
+* Requests to theatres, cinemas, department stores and other facilities to shorten their opening hours in order to reduce contact opportunities
+* Requests to businesses to make use of telework and to promote the use of leave in order to reduce the need to attend work
+* Requests to railway companies to reduce the number of trains on holidays on routes to and from the areas under the measures
 
 ## Description of files
 * `covid-19_priority_measures_japan.csv`: data file of the priority measures issued by the government of Japan.
@@ -30,10 +38,10 @@ Work in progress
 
 
 ## Data source of `covid-19_priority_measures_japan.csv`
-* Declaration in 2021: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic policy for the control of novel coronavirus diesease. in Japanese. 2021/04/01. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210401.pdf. (Accessed on April 18, 2021).
-  * 1st Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic policy for the control of novel coronavirus diesease. in Japanese. 2021/04/09. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210409.pdf. (Accessed on April 18, 2021).
-  * 2nd Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic policy for the control of novel coronavirus diesease. in Japanese. 2021/04/16. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210416.pdf. (Accessed on April 18, 2021).
-  * 3rd Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic policy for the control of novel coronavirus diesease. in Japanese. 2021/04/23. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210423.pdf. (Accessed on April 24, 2021).
+* Declaration in 2021: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/04/01. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210401.pdf. (Accessed on April 18, 2021).
+  * 1st Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/04/09. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210409.pdf. (Accessed on April 18, 2021).
+  * 2nd Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/04/16. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210416.pdf. (Accessed on April 18, 2021).
+  * 3rd Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/04/23. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210423.pdf. (Accessed on April 24, 2021).
 
 
 ## Citation
