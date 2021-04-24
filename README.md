@@ -11,7 +11,7 @@
 
 
 ## Overview of this repository
-Date-range data of the priority measures such as the prevention of the spread of disease for the prefectures in Japan. The priority measures in this dataset are those issued by the government of Japan and prefectural governments of Japan.
+Date-range data of the priority measures such as the prevention of the spread of disease (まん延防止等重点措置; _Manenboushitoujutensochi_, in Japanese) for the prefectures in Japan. The priority measures in this dataset are those issued by the government of Japan and prefectural governments of Japan.
 
 ## Overview of priority measures such as the prevention of the spread of disease in Japan
 Work in progress
