@@ -8,6 +8,7 @@
 * [Data source of `covid-19_priority_measures_japan.csv`](#data-source-of-covid-19_priority_measures_japancsv)
 * [Citation](#citation)
 * [Reference](#reference)
+* [Acknowledgement](#acknowledgement)
 
 
 ## Overview of this repository
