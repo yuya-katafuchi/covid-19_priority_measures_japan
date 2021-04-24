@@ -33,6 +33,7 @@ Work in progress
 * Declaration in 2021: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic policy for the control of novel coronavirus diesease. in Japanese. 2021/04/01. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210401.pdf. (Accessed on April 18, 2021).
   * 1st Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic policy for the control of novel coronavirus diesease. in Japanese. 2021/04/09. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210409.pdf. (Accessed on April 18, 2021).
   * 2nd Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic policy for the control of novel coronavirus diesease. in Japanese. 2021/04/16. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210416.pdf. (Accessed on April 18, 2021).
+  * 3rd Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic policy for the control of novel coronavirus diesease. in Japanese. 2021/04/23. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210423.pdf. (Accessed on April 24, 2021).
 
 
 ## Citation
