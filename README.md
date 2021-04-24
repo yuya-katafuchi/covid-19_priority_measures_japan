@@ -16,7 +16,7 @@ Date-range data of the priority measures such as the prevention of the spread of
 ## Overview of priority measures such as the prevention of the spread of disease in Japan
 The priority measures such as the prevention of the spread of disease (まん延防止等重点措置; _Manenboushitoujutensochi_, in Japanese) by the Government of Japan are designed to limit the damage to the population caused by the spread of the pandemic and to prevent the spread of COVID-19 in certain areas with a negative impact on their life and economy.
 
-This measure is based on the definition of Chapter 3 of the "Act on Special Measures for Pandemic Influenza and New Infectious Diseases Preparedness and Response", a law in Japan (e-Gov, Japan, 2020; Cabinet Secretariat, Japan, 2021a). and consists of the following requirements
+This measure is based on the definition of Chapter 3 of the "Act on Special Measures for Pandemic Influenza and New Infectious Diseases Preparedness and Response", a law in Japan (e-Gov, Japan, 2020; Cabinet Secretariat, Japan, 2021a). and consists of the following requirements (Cabinet Secretariat, Japan, 2021b, 2021c, 2021d)
 
 * Requests to restaurants and other businesses to shorten their opening hours
 * Requests for restaurants to take thorough measures to avoid contact with the spread of the pandemic
@@ -49,4 +49,8 @@ Katafuchi, Y. (2021). covid-19_priority_measures_japan. URL: https://github.com/
 
 
 ## Reference
-Work in progress
+* e-Gov, Japan. (2020). Act on Special Measures for Pandemic Influenza and New Infectious Diseases Preparedness and Response. in Japanese. URL: https://elaws.e-gov.go.jp/document?lawid=424AC0000000031. (Accessed on April 24, 2021).
+* Cabinet Secretariat, Japan. (2021a). Public Notice on Priority Measures such as the Prevention of the Spread of Novel Coronavirus Disease. in Japanese. URL: https://corona.go.jp/emergency/pdf/kouji_20210401.pdf. (Accessed on April 24, 2021).
+* Cabinet Secretariat, Japan. (2021b). Emergency Measures and Priority Measures such as the Prevention of the Spread of Disease. in Japanese. URL: https://corona.go.jp/emergency/pdf/kinkyujitaisochi_20210419.pdf. (Accessed on April 24, 2021).
+* Cabinet Secretariat, Japan. (2021c). Measures to Strengthen Priority Measures such as the Prevention of the Spread of Disease. in Japanese. URL: https://corona.go.jp/emergency/pdf/manbou_kyokasaku_20210423.pdf. (Accessed on April 24, 2021).
+* Cabinet Secretariat, Japan. (2021d). Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/04/23. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210423.pdf. (Accessed on April 24, 2021).
