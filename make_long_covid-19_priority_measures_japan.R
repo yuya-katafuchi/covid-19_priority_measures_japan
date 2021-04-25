@@ -2,7 +2,7 @@
 library(tidyverse)
 
 # set whole date-range ----------------------------------------------------
-start_date_whole <- as.Date("2020-01-01")
+start_date_whole <- as.Date("2021-04-01")
 end_date_whole <- Sys.Date()
 
 # load data ---------------------------------------------------------------
