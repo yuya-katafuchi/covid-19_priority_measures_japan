@@ -46,7 +46,8 @@ As the priority measures under this law are issued by the government, which can 
   * 2nd Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/04/16. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210416.pdf. (Accessed on April 18, 2021).
   * 3rd Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/04/23. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210423.pdf. (Accessed on April 24, 2021).
   * 4th Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/05/07. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210507.pdf. (Accessed on May 10, 2021).
-  * 5th Amendmend: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/05/14. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210514.pdf. (Accessed on May 15, 2021).
+  * 5th Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/05/14. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210514.pdf. (Accessed on May 15, 2021).
+  * 6th Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/05/21. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210521.pdf. (Accessed on May 21, 2021).
 
 
 ## Citation
