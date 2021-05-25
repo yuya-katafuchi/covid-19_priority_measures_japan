@@ -8,8 +8,8 @@ id,prefecture_en,priority_measures_start,priority_measures_end,times
 26,Kyoto,2021-04-12,2021-04-25,1
 27,Osaka,2021-04-05,2021-04-25,1
 28,Hyogo,2021-04-05,2021-04-25,1
-47,Okinawa,2021-04-12,,1
-38,Ehime,2021-04-25,,1
+47,Okinawa,2021-04-12,2021-05-22,1
+38,Ehime,2021-04-25,2021-05-22,1
 1,Hokkaido,2021-05-09,2021-05-15,1
 21,Gifu,2021-05-09,,1
 24,Mie,2021-05-09,,1
