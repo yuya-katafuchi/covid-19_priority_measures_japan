@@ -13,6 +13,6 @@ id,prefecture_en,priority_measures_start,priority_measures_end,times
 1,Hokkaido,2021-05-09,2021-05-15,1
 21,Gifu,2021-05-09,,1
 24,Mie,2021-05-09,,1
-10,Gunma,2021-05-16,,1
-17,Ishikawa,2021-05-16,,1
-43,Kumamoto,2021-05-16,,1
+10,Gunma,2021-05-16,2021-06-13,1
+17,Ishikawa,2021-05-16,2021-06-13,1
+43,Kumamoto,2021-05-16,2021-06-13,1
