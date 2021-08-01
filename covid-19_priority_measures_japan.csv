@@ -1,9 +1,9 @@
 id,prefecture_en,priority_measures_start,priority_measures_end,times
 4,Miyagi,2021-04-05,2021-05-11,1
-11,Saitama,2021-04-20,,1
-12,Chiba,2021-04-20,,1
+11,Saitama,2021-04-20,2021-08-01,1
+12,Chiba,2021-04-20,2021-08-01,1
 13,Tokyo,2021-04-12,2021-04-25,1
-14,Kanagawa,2021-04-20,,1
+14,Kanagawa,2021-04-20,2021-08-01,1
 23,Aichi,2021-04-20,2021-05-11,1
 26,Kyoto,2021-04-12,2021-04-25,1
 27,Osaka,2021-04-05,2021-04-25,1
@@ -20,6 +20,11 @@ id,prefecture_en,priority_measures_start,priority_measures_end,times
 13,Tokyo,2021-06-21,2021-07-11,2
 23,Aichi,2021-06-21,2021-07-11,2
 26,Kyoto,2021-06-21,2021-07-11,2
-27,Osaka,2021-06-21,,2
+27,Osaka,2021-06-21,2021-08-01,2
 28,Hyogo,2021-06-21,2021-07-11,2
 40,Fukuoka,2021-06-21,2021-07-11,1
+1,Hokkaido,2021-08-02,,2
+17,Ishikawa,2021-08-02,,2
+26,Kyoto,2021-08-02,,3
+28,Hyogo,2021-08-02,,3
+40,Fukuoka,2021-08-02,,2
