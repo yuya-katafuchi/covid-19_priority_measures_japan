@@ -29,7 +29,7 @@ As the priority measures under this law are issued by the government, which can 
 
 ## Description of files
 * `covid-19_priority_measures_japan.csv`: data file of the priority measures issued by the government of Japan.
-* `make_long_covid19_priority_measures_japan.R`: An R script of function which converts the above file into a long format data frame represented by a binary variable that indicates under which priority measures was issued. This also supports multiple declarations of priority measures.
+* `make_long_covid19_priority_measures_japan.R`: An R script of function which converts the above file into a long format data frame represented by a binary variable that indicates under which priority measures was issued and times. This also supports multiple declarations of priority measures.
 
 
 ## Description of columns in `covid-19_priority_measures_japan.csv`
