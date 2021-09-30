@@ -56,6 +56,7 @@ As the priority measures under this law are issued by the government, which can 
   * 12th Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/08/17. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210817.pdf. (Accessed on August 17, 2021).
   * 13th Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/08/25. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210825.pdf. (Accessed on August 25, 2021).
   * 14th Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/09/09. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210909.pdf. (Accessed on September 9, 2021).
+  * 15th Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/09/28. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210928.pdf. (Accessed on September 28, 2021).
 
 
 ## Citation
