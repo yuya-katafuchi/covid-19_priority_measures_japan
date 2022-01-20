@@ -33,7 +33,7 @@ id,prefecture_en,priority_measures_start,priority_measures_end,times
 9,Tochigi,2021-08-08,2021-08-19,1
 10,Gunma,2021-08-08,2021-08-19,2
 22,Shizuoka,2021-08-08,2021-08-19,1
-23,Aichi,2021-08-08,2021-08-26,2
+23,Aichi,2021-08-08,2021-08-26,3
 25,Shiga,2021-08-08,2021-08-26,1
 43,Kumamoto,2021-08-08,2021-09-30,2
 4,Miyagi,2021-08-20,2021-08-26,2
@@ -55,3 +55,16 @@ id,prefecture_en,priority_measures_start,priority_measures_end,times
 34,Hiroshima,2022-01-09,,2
 35,Yamaguchi,2022-01-09,,1
 47,Okinawa,2022-01-09,,2
+10,Gunma,2022-01-21,,3
+11,Saitama,2022-01-21,,2
+12,Chiba,2022-01-21,,2
+13,Tokyo,2022-01-21,,3
+14,Kanagawa,2022-01-21,,2
+15,Niigata,2022-01-21,,1
+21,Gifu,2022-01-21,,3
+23,Aichi,2022-01-21,,4
+24,Mie,2022-01-21,,3
+37,Kagawa,2022-01-21,,2
+42,Nagasaki,2022-01-21,,2
+43,Kumamoto,2022-01-21,,3
+45,Miyazaki,2022-01-21,,2
