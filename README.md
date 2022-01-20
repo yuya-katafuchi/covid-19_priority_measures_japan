@@ -41,7 +41,8 @@ As the priority measures under this law are issued by the government, which can 
 
 
 ## Data source of `covid-19_priority_measures_japan.csv`
-* Declaration in 2021: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/04/01. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210401.pdf. (Accessed on April 18, 2021).
+### Declaration in 2021
+* Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/04/01. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210401.pdf. (Accessed on April 18, 2021).
   * 1st Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/04/09. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210409.pdf. (Accessed on April 18, 2021).
   * 2nd Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/04/16. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210416.pdf. (Accessed on April 18, 2021).
   * 3rd Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/04/23. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210423.pdf. (Accessed on April 24, 2021).
@@ -57,7 +58,8 @@ As the priority measures under this law are issued by the government, which can 
   * 13th Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/08/25. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210825.pdf. (Accessed on August 25, 2021).
   * 14th Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/09/09. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210909.pdf. (Accessed on September 9, 2021).
   * 15th Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2021/09/28. URL: https://corona.go.jp/expert-meeting/pdf/kihon_h_20210928.pdf. (Accessed on September 28, 2021).
-* Declaration in 2022: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2022/01/07. URL: https://corona.go.jp/expert-meeting/pdf/kihon_r_20220107.pdf. (Accessed on January 7, 2022).
+### Declaration in 2022
+* Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2022/01/07. URL: https://corona.go.jp/expert-meeting/pdf/kihon_r_20220107.pdf. (Accessed on January 7, 2022).
   * 1st Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Basic Policy for the Control of Novel Coronavirus Disease. in Japanese. 2022/01/19. URL: https://corona.go.jp/expert-meeting/pdf/kihon_r_20220119.pdf. (Accessed on January 19, 2022)
 
 ## Citation
